@@ -1,0 +1,23 @@
+{
+  "name": "reviewrotas",
+  "version": "1.0.0",
+  "description": "Revisão do conteúdo de rotas de um servidor HTTP com Node.js. Conteúdo do curso Web Fullstack da Digital House.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumbertoGaldino/reviewRotas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumbertoGaldino/reviewRotas/issues"
+  },
+  "homepage": "https://github.com/HumbertoGaldino/reviewRotas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
